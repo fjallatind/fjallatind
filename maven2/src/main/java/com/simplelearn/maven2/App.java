@@ -1,7 +1,7 @@
 package com.simplelearn.maven2;
 
 /**
- * Hello world!
+ * Hello world!!
  *
  */
 public class App 
